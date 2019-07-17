@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="multi-project-builsrc.common.main" target="11" />
+      <module name="multi-project-builsrc.common.test" target="11" />
+      <module name="multi-project-builsrc.core.main" target="11" />
+      <module name="multi-project-builsrc.core.test" target="11" />
+      <module name="multi-project.common.main" target="11" />
+      <module name="multi-project.common.test" target="11" />
+      <module name="multi-project.core.main" target="11" />
+      <module name="multi-project.core.test" target="11" />
+      <module name="multi-project.main" target="11" />
+      <module name="multi-project.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
